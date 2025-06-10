@@ -59,8 +59,8 @@ VITE_API_URL=https://68487ec7ec44b9f3494117c1.mockapi.io/api/books
 
 ##  Интерфейс
 
+![image](https://github.com/user-attachments/assets/3f093381-1c8f-4d53-8a03-59ee07005607)
 
-(здесь можно вставить скриншоты или gif)
 
 ---
 
